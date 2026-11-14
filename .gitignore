@@ -1,0 +1,6 @@
+node_modules/
+.next/
+.qa/
+.edge-qa*/
+.image-sources/
+npm-debug.log*

@@ -1,0 +1,1 @@
+export function DemoNote({light=false,children="Fictional portfolio demonstration"}:{light?:boolean;children?:React.ReactNode}){return <span className={`demo-note ${light?"demo-light":""}`}>{children}</span>}
